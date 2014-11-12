@@ -2,4 +2,5 @@ PagingView-Swift
 ================
 
 PagingView For Swift
-![image](https://github.com/wenzhaot/PagingView-Swift/blob/master/PagingView-Swift/output.gif)
+
+<img src="https://raw.github.com/wenzhaot/PagingView-Swift/blob/master/PagingView-Swift/output.gif">
