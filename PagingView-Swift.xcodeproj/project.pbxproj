@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0D1346CF1A12F0EA00408068 /* DemoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1346CE1A12F0EA00408068 /* DemoPage.swift */; };
+		0D581EBF1A13513800D6D235 /* output.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0D581EBE1A13513800D6D235 /* output.gif */; };
 		0DF9F7491A107C5F008E258C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DF9F7481A107C5F008E258C /* AppDelegate.swift */; };
 		0DF9F74B1A107C5F008E258C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DF9F74A1A107C5F008E258C /* ViewController.swift */; };
 		0DF9F74E1A107C5F008E258C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DF9F74C1A107C5F008E258C /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		0D1346CE1A12F0EA00408068 /* DemoPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoPage.swift; sourceTree = "<group>"; };
+		0D581EBE1A13513800D6D235 /* output.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = output.gif; sourceTree = "<group>"; };
 		0DF9F7431A107C5F008E258C /* PagingView-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PagingView-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DF9F7471A107C5F008E258C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DF9F7481A107C5F008E258C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		0DF9F7461A107C5F008E258C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0D581EBE1A13513800D6D235 /* output.gif */,
 				0DF9F7471A107C5F008E258C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -209,6 +212,7 @@
 				0DF9F74E1A107C5F008E258C /* Main.storyboard in Resources */,
 				0DF9F7531A107C5F008E258C /* LaunchScreen.xib in Resources */,
 				0DF9F7501A107C5F008E258C /* Images.xcassets in Resources */,
+				0D581EBF1A13513800D6D235 /* output.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
